@@ -2,7 +2,7 @@
 
 ## Czech Translation
 1) [MasterVotr](https://github.com/MasterVotr)
-
+2) Eskymak (https://github.com/Eskymakk)
 ## French Translation
 1) [ARK France](https://github.com/arkfrance) - [ARKFranceGaming.com](http://arkfrancegaming.com)
 
